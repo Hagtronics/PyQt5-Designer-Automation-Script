@@ -8,7 +8,7 @@ send the proper commands to pyuic5.
 pyuic5 must be in the path somewhere - it is usually in the Python scripts
 directory.
 
-Totally free script, but remember,
+Totally free script, but remember; it was,
    "Written by an infinite number of Monkeys in an infinite amount of time,
     ...so beware."
 """
